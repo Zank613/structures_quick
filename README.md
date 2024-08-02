@@ -3,3 +3,5 @@
 ## [Arrays](https://github.com/Zank613/structures_quick/tree/master/arrays)
 
 ## [Linked List](https://github.com/Zank613/structures_quick/tree/master/linked_list)
+
+## [Stack](https://github.com/Zank613/structures_quick/tree/master/stack)
