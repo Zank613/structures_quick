@@ -9,3 +9,6 @@
 - So you can't remove from middle of the stack nor add it there. Only operation is allowed at the top.
 
 - Stack is also described as LIFO (Last in, first out).
+
+- Stacks are perfect for situations where you need to keep track of history or need to reverse operations,
+  such as parsing expression or managing functions calls.

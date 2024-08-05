@@ -10,3 +10,6 @@
 - Operations of a queue makes it a first-in-first-out (FIFO) data structure.
 
 - First element added to the queue will be the first to removed.
+
+- Queues are great for managing tasks that need to processed in the order they arrive,
+  like print jobs or CPU scheduling.
